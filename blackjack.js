@@ -40,7 +40,7 @@ if(sum<21){
   message=  "DO YOU WANT TO DRAW A NEW CARD?"
 }
  else if(sum===21){
-    message="WOOOOOO! YOU GOT BLACKJACK BITCH!!!!!";
+    message="WOOOOOO! YOU GOT BLACKJACK!!!!!";
     hasBlackJack=true;
 }
 
